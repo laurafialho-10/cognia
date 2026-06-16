@@ -69,9 +69,6 @@ Para dúvidas ou permissões, entre em contato com os desenvolvedores.
 ## 👨‍💻 Desenvolvido por
 
 **LAURA BEATRIZ FIALHO CELESTINO**  
-**JONATHAN KAWAN ALVES DA SILVA**  
-**JULIANE FELINTRO**  
-**KAUÊ DE SOUSA COSTA**
 
 ---
 
